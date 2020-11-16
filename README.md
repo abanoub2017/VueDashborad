@@ -1,4 +1,4 @@
-# curd
+# DashBorad
 
 ## Project setup
 ```
